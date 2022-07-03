@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-interface ISinger{
+export interface ISinger{
   name: string;
   avatar_url: string;
   twitter: string;

@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-interface ISubscriber{
+export interface ISubscriber{
   name: string;
   email: string;
 }

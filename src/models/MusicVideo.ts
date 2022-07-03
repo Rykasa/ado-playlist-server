@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-interface IMusicVideo{
+interface IMusicVideo {
   title: string;
   slug: string;
   description: string;
